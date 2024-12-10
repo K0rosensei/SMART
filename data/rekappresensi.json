@@ -1,0 +1,184 @@
+{
+  "RekapPresensi": [
+    {
+      "Nama": "Yani",
+      "Kelas": "XI RPL 1",
+      "Hadir": "5 Kali",
+      "Sakit": "2 Kali",
+      "Izin": "Belum Pernah",
+      "Alpa": "3 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Alya",
+      "Kelas": "XI RPL 1",
+      "Hadir": "8 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "2 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Budi",
+      "Kelas": "XI RPL 2",
+      "Hadir": "6 Kali",
+      "Sakit": "3 Kali",
+      "Izin": "2 Kali",
+      "Alpa": "1 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Citra",
+      "Kelas": "XI RPL 2",
+      "Hadir": "10 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "2 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Dian",
+      "Kelas": "XI RPL 3",
+      "Hadir": "9 Kali",
+      "Sakit": "2 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "3 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Eko",
+      "Kelas": "XI RPL 3",
+      "Hadir": "5 Kali",
+      "Sakit": "4 Kali",
+      "Izin": "3 Kali",
+      "Alpa": "2 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Rifqi",
+      "Kelas": "XI RPL 4",
+      "Hadir": "7 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "2 Kali",
+      "Alpa": "4 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Sinta",
+      "Kelas": "XI RPL 4",
+      "Hadir": "6 Kali",
+      "Sakit": "3 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "2 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Tino",
+      "Kelas": "XI RPL 1",
+      "Hadir": "8 Kali",
+      "Sakit": "2 Kali",
+      "Izin": "2 Kali",
+      "Alpa": "1 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Fani",
+      "Kelas": "XI RPL 2",
+      "Hadir": "7 Kali",
+      "Sakit": "2 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "3 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Gilang",
+      "Kelas": "XI RPL 3",
+      "Hadir": "9 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "2 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Hana",
+      "Kelas": "XI RPL 4",
+      "Hadir": "10 Kali",
+      "Sakit": "2 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "1 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Irfan",
+      "Kelas": "XI RPL 1",
+      "Hadir": "6 Kali",
+      "Sakit": "3 Kali",
+      "Izin": "2 Kali",
+      "Alpa": "2 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Jaka",
+      "Kelas": "XI RPL 2",
+      "Hadir": "5 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "4 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Kiki",
+      "Kelas": "XI RPL 3",
+      "Hadir": "8 Kali",
+      "Sakit": "2 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "1 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Lina",
+      "Kelas": "XI RPL 4",
+      "Hadir": "7 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "3 Kali",
+      "Alpa": "2 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Mira",
+      "Kelas": "XI RPL 1",
+      "Hadir": "9 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "2 Kali",
+      "Alpa": "1 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Nina",
+      "Kelas": "XI RPL 2",
+      "Hadir": "8 Kali",
+      "Sakit": "3 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "1 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Oki",
+      "Kelas": "XI RPL 3",
+      "Hadir": "7 Kali",
+      "Sakit": "2 Kali",
+      "Izin": "2 Kali",
+      "Alpa": "3 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    },
+    {
+      "Nama": "Prita",
+      "Kelas": "XI RPL 4",
+      "Hadir": "10 Kali",
+      "Sakit": "1 Kali",
+      "Izin": "1 Kali",
+      "Alpa": "1 Kali",
+      "img": "https://github.com/K0rosensei/foto/blob/main/A1.jpg?raw=true"
+    }
+  ]
+}

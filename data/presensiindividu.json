@@ -1,0 +1,200 @@
+{
+  "PresensiIndividu": [
+    {
+      "Nama": "Yani",
+      "Status": "Hadir",
+      "Jumlah": "5 Kali",
+      "Icon": "✅",
+      "Color": "#00C9A7"
+    },
+    {
+      "Nama": "Yani",
+      "Status": "Sakit",
+      "Jumlah": "2 Kali",
+      "Icon": "🌡",
+      "Color": "#FFB800"
+    },
+    {
+      "Nama": "Yani",
+      "Status": "Izin",
+      "Jumlah": "Belum Pernah",
+      "Icon": "🧳",
+      "Color": "#1E86FF"
+    },
+    {
+      "Nama": "Yani",
+      "Status": "Alpa",
+      "Jumlah": "3 Kali",
+      "Icon": "❗",
+      "Color": "#FF3D71"
+    },
+    {
+      "Nama": "Alya",
+      "Status": "Hadir",
+      "Jumlah": "8 Kali",
+      "Icon": "✅",
+      "Color": "#00C9A7"
+    },
+    {
+      "Nama": "Alya",
+      "Status": "Sakit",
+      "Jumlah": "1 Kali",
+      "Icon": "🌡",
+      "Color": "#FFB800"
+    },
+    {
+      "Nama": "Alya",
+      "Status": "Izin",
+      "Jumlah": "1 Kali",
+      "Icon": "🧳",
+      "Color": "#1E86FF"
+    },
+    {
+      "Nama": "Alya",
+      "Status": "Alpa",
+      "Jumlah": "2 Kali",
+      "Icon": "❗",
+      "Color": "#FF3D71"
+    },
+    {
+      "Nama": "Budi",
+      "Status": "Hadir",
+      "Jumlah": "6 Kali",
+      "Icon": "✅",
+      "Color": "#00C9A7"
+    },
+    {
+      "Nama": "Budi",
+      "Status": "Sakit",
+      "Jumlah": "3 Kali",
+      "Icon": "🌡",
+      "Color": "#FFB800"
+    },
+    {
+      "Nama": "Budi",
+      "Status": "Izin",
+      "Jumlah": "2 Kali",
+      "Icon": "🧳",
+      "Color": "#1E86FF"
+    },
+    {
+      "Nama": "Budi",
+      "Status": "Alpa",
+      "Jumlah": "1 Kali",
+      "Icon": "❗",
+      "Color": "#FF3D71"
+    },
+    {
+      "Nama": "Citra",
+      "Status": "Hadir",
+      "Jumlah": "10 Kali",
+      "Icon": "✅",
+      "Color": "#00C9A7"
+    },
+    {
+      "Nama": "Citra",
+      "Status": "Sakit",
+      "Jumlah": "1 Kali",
+      "Icon": "🌡",
+      "Color": "#FFB800"
+    },
+    {
+      "Nama": "Citra",
+      "Status": "Izin",
+      "Jumlah": "1 Kali",
+      "Icon": "🧳",
+      "Color": "#1E86FF"
+    },
+    {
+      "Nama": "Citra",
+      "Status": "Alpa",
+      "Jumlah": "2 Kali",
+      "Icon": "❗",
+      "Color": "#FF3D71"
+    },
+    {
+      "Nama": "Dian",
+      "Status": "Hadir",
+      "Jumlah": "9 Kali",
+      "Icon": "✅",
+      "Color": "#00C9A7"
+    },
+    {
+      "Nama": "Dian",
+      "Status": "Sakit",
+      "Jumlah": "2 Kali",
+      "Icon": "🌡",
+      "Color": "#FFB800"
+    },
+    {
+      "Nama": "Dian",
+      "Status": "Izin",
+      "Jumlah": "1 Kali",
+      "Icon": "🧳",
+      "Color": "#1E86FF"
+    },
+    {
+      "Nama": "Dian",
+      "Status": "Alpa",
+      "Jumlah": "3 Kali",
+      "Icon": "❗",
+      "Color": "#FF3D71"
+    },
+    {
+      "Nama": "Eko",
+      "Status": "Hadir",
+      "Jumlah": "5 Kali",
+      "Icon": "✅",
+      "Color": "#00C9A7"
+    },
+    {
+      "Nama": "Eko",
+      "Status": "Sakit",
+      "Jumlah": "4 Kali",
+      "Icon": "🌡",
+      "Color": "#FFB800"
+    },
+    {
+      "Nama": "Eko",
+      "Status": "Izin",
+      "Jumlah": "3 Kali",
+      "Icon": "🧳",
+      "Color": "#1E86FF"
+    },
+    {
+      "Nama": "Eko",
+      "Status": "Alpa",
+      "Jumlah": "2 Kali",
+      "Icon": "❗",
+      "Color": "#FF3D71"
+    },
+    {
+      "Nama": "Rifqi",
+      "Status": "Hadir",
+      "Jumlah": "7 Kali",
+      "Icon": "✅",
+      "Color": "#00C9A7"
+    },
+    {
+      "Nama": "Rifqi",
+      "Status": "Sakit",
+      "Jumlah": "1 Kali",
+      "Icon": "🌡",
+      "Color": "#FFB800"
+    },
+    {
+      "Nama": "Rifqi",
+      "Status": "Izin",
+      "Jumlah": "2 Kali",
+      "Icon": "🧳",
+      "Color": "#1E86FF"
+    },
+    {
+      "Nama": "Rifqi",
+      "Status": "Alpa",
+      "Jumlah": "4 Kali",
+      "Icon": "❗",
+      "Color": "#FF3D71"
+    }
+  ]
+}
